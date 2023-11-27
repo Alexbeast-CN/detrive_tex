@@ -1,0 +1,11 @@
+# LaTeX files
+*.aux
+*.log
+*.gz
+
+# Compiled PDFs
+*.pdf
+
+# Build directories
+_build/
+out/
